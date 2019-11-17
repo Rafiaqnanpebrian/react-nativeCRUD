@@ -1,5 +1,4 @@
-How To Install 
-- git clone https://github.com/ReginaPutri27/reactNativeCRUD.git
-- cd react_native-crud
+How To Install and Run Project
+- git clone https://github.com/Rafiaqnanpebrian/react-nativeCRUD
 - npm install --save
 - react-native run-android
